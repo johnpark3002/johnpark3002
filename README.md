@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hi there, I'm John Park 👋
 
-<!--
-**johnpark3002/johnpark3002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring Software Developer** | 🎯 **Passionate about Data & AI** | 💡 **Building Cool Projects**  
 
-Here are some ideas to get you started:
+I'm a **Software Engineering Graduate from McGill University** looking to make an impact in the world of software development and data engineering.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 About Me  
+- 🎓 Graduated from McGill University in **Software Engineering**  
+- 💼 **Previously an intern at Ciena**, where I built a **budget management web application** using **React.js, Spring Boot, and PostgreSQL**  
+- 🛠️ Currently working on **FridgeKeeper**, a personal inventory management app with **Spring Boot, React.js, and PostgreSQL**  
+- 💡 Passionate about **full-stack development, data engineering, and AI**  
+- 📚 Currently learning **Python for Data Science** and solving **LeetCode problems**  
+- 🌍 Fluent in **English & French**  
+
+### 💻 Tech Stack  
+🚀 **Languages:** Java, Python, SQL, JavaScript, C  
+🛠 **Frameworks & Tools:** Spring Boot, React.js, PostgreSQL, FastAPI, TailwindCSS  
+📊 **Data & ML:** Pandas, NumPy, Scikit-Learn, TensorFlow  
+
+### 📈 GitHub Stats  
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnpark&show_icons=true&theme=radical)
+
+### 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-park-106a72223/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=github&logoColor=white)](https://your-portfolio-link.com)  
