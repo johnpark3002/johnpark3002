@@ -6,7 +6,7 @@ I'm a **Software Engineering Graduate from McGill University** looking to make a
 
 ### 🔥 About Me  
 - 🎓 Graduated from McGill University in **Software Engineering**  
-- 💼 **Previously an intern at Ciena**, where I built a **budget management web application** using **React.js, Spring Boot, and PostgreSQL**  
+- 💼 **Previously an intern at Ciena**, where I built a **budget management web application** using **React.js, Spring Boot, and MS SQL Server**  
 - 🛠️ Currently working on **FridgeKeeper**, a personal inventory management app with **Spring Boot, React.js, and PostgreSQL**  
 - 💡 Passionate about **full-stack development, data engineering, and AI**  
 - 📚 Currently learning **Python for Data Science** and solving **LeetCode problems**  
