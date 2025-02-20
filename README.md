@@ -17,8 +17,8 @@ I'm a **Software Engineering Graduate from McGill University** looking to make a
 🛠 **Frameworks & Tools:** Spring Boot, React.js, PostgreSQL, FastAPI, TailwindCSS  
 📊 **Data & ML:** Pandas, NumPy, Scikit-Learn, TensorFlow  
 
-### 📈 GitHub Stats  
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnpark&show_icons=true&theme=radical)
+<!-- ### 📈 GitHub Stats  
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnpark&show_icons=true&theme=radical) -->
 
 ### 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-park-106a72223/)  
